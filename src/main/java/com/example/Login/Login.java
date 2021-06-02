@@ -1,4 +1,4 @@
-package com.example.Login;
+package main.java.com.example.Login;
 
 import com.example.daoman.User;
 import org.apache.commons.dbutils.QueryRunner;
